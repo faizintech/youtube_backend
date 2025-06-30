@@ -24,5 +24,8 @@
   "homepage": "https://github.com/faizintech/youtube_backend#readme",
   "dependencies": {
     "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
   }
 }
