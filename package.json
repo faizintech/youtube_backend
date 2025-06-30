@@ -1,0 +1,28 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "backend for youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "nodemon": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizintech/youtube_backend.git"
+  },
+  "keywords": [
+    "backend",
+    "youtube",
+    "clone"
+  ],
+  "author": "faiz alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizintech/youtube_backend/issues"
+  },
+  "homepage": "https://github.com/faizintech/youtube_backend#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
